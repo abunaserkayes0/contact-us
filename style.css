@@ -1,0 +1,15 @@
+.background {
+  background-image: linear-gradient(
+    to right top,
+    #2d5acf,
+    #2d5cd7,
+    #2e5de0,
+    #2f5fe8,
+    #3060f0
+  );
+  color: white;
+}
+.border-color {
+  border-bottom: 2px solid #2e5de0;
+  box-shadow: 2px 0px 10px 0px #8db9d1bf;
+}
